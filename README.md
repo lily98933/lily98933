@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 📧 Email: <a href="mailto:675770571@qq.com">675770571@qq.com</a><br>
-💼 LinkedIn: <a href="https://linkedin.com/in/王梓宇" target="_blank" rel="noreferrer">王梓宇</a>
+💼 LinkedIn: <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bra8yXhn5TmqU0FR4uCNl4A%3D%3D" target="_blank" rel="noreferrer">Ziyu Wang</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
